@@ -6,7 +6,7 @@
 It is a demo front-end landing page that promotes a hypothetical Virtual Reality travel service. It showcases VR destinations, user testimonials, and key features, all wrapped in an elegant, responsive layout — ideal for portfolio highlights or front-end design practice
 
 
- 🔧 Technologies Used
+ 🔧 Technologies Used:
 
 - **HTML5** — For semantic structure and accessibility
 - **CSS3** — For layout, animations, and custom styling
@@ -15,7 +15,7 @@ It is a demo front-end landing page that promotes a hypothetical Virtual Reality
 
 
 
-💡 Features
+💡 Features:
 
 - 🎮 **Hero Section** with an engaging call-to-action
 - 🗺️ **Featured Destinations** with hover effects and preview buttons
