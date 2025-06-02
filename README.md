@@ -1,9 +1,7 @@
 # OIBSIP_Level1_Task1
 🌍 VR Escape — Travel the World Virtually
 
-**VR Escape** is an immersive and modern front-end project that lets users explore global destinations and even fantastical worlds through virtual reality — all from the comfort of their home. The site features beautiful UI components, responsive layouts, and engaging visuals designed using **HTML** and **CSS** only.
-
-It is a demo front-end landing page that promotes a hypothetical Virtual Reality travel service. It showcases VR destinations, user testimonials, and key features, all wrapped in an elegant, responsive layout — ideal for portfolio highlights or front-end design practice
+**VR Escape** is an immersive and a demo front-end landing page that lets users explore global destinations and even fantastical worlds through virtual reality all from the comfort of their home. The site features beautiful UI components, responsive layouts, and engaging visuals designed using **HTML** and **CSS** only.
 
 
  🔧 Technologies Used:
