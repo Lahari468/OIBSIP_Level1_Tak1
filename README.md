@@ -18,7 +18,7 @@
 - 🎮 **Hero Section** with an engaging call-to-action
 - 🗺️ **Featured Destinations** with hover effects and preview buttons
 - 🧭 **Experience Section** showcasing VR features with icons
-- 🧑‍🤝‍🧑 **Testimonials** from virtual travelers
+- 🧑‍🤝‍🧑 **Testimonials** from virtual travellers
 - 📩 **Email Sign-Up Form** to start the virtual journey
 - 🦶 **Footer Navigation** with quick links and legal info
 - 📱 **Fully Responsive** layout optimized for all devices
